@@ -1,0 +1,564 @@
+﻿País,Ano,Volume Litro,Valor
+Alemanha,2008,5423,20928.0
+Angola,2008,2244,10581.0
+Belgica,2008,112,682.0
+Bolívia,2008,587,2048.0
+Cingapura,2008,378,1933.0
+"Coreia do Sul, Republica da",2008,842,2553.0
+Espanha,2008,995,3094.0
+Estados Unidos,2008,283760,324094.0
+França,2008,5922,15429.0
+Guiné Equatorial,2008,2,416.0
+Honduras,2008,54,202.0
+Hong Kong,2008,810,4054.0
+Japão,2008,964,3578.0
+Luxemburgo,2008,1683,6367.0
+Paraguai,2008,4637,8088.0
+Polônia,2008,2682,10390.0
+Reino Unido,2008,20880,70326.0
+Republica Tcheca,2008,493,1125.0
+Suécia,2008,5922,17100.0
+Suíça,2008,16830,45662.0
+Alemanha,2009,6648,29018.0
+Angola,2009,11393,33664.0
+Antilhas Holandesas,2009,180,1660.0
+Chile,2009,1673,8613.0
+Cingapura,2009,976,2784.0
+Estados Unidos,2009,35695,200975.0
+Hong Kong,2009,120,505.0
+Itália,2009,2369,6590.0
+Japão,2009,2900,8650.0
+Luxemburgo,2009,993,3963.0
+Países Baixos (Holanda),2009,2250,11276.0
+Paraguai,2009,20099,18376.0
+Polônia,2009,1545,6859.0
+Republica Tcheca,2009,395,900.0
+Suécia,2009,2070,10950.0
+Vietnã,2009,675,1768.0
+Alemanha,2010,1958,6877.0
+Angola,2010,104138,672533.0
+Bahamas,2010,146,795.0
+Belgica,2010,12897,49742.0
+Bolívia,2010,11960,5553.0
+China,2010,416,1566.0
+Cingapura,2010,247,738.0
+Costa Rica,2010,12,30.0
+Emirados Arabes Unidos,2010,198,804.0
+Estados Unidos,2010,123001,172488.0
+Estonia,2010,495,1860.0
+França,2010,990,3951.0
+Guatemala,2010,4,10.0
+Irlanda,2010,360,3012.0
+Itália,2010,99,390.0
+Japão,2010,4737,15240.0
+Luxemburgo,2010,846,4975.0
+México,2010,95328,24000.0
+Nicarágua,2010,20,40.0
+Países Baixos (Holanda),2010,2896,11444.0
+Panamá,2010,27,30.0
+Paraguai,2010,6728,24228.0
+Polônia,2010,90,599.0
+Portugal,2010,5387,17475.0
+Reino Unido,2010,13501,55256.0
+Trinidade e Tobago,2010,18,20.0
+Uruguai,2010,472,21325.0
+Vietnã,2010,189,651.0
+Alemanha,2011,1976,12018.0
+Angola,2011,904,14196.0
+Antilhas Holandesas,2011,9144,65766.0
+Bahamas,2011,1001,7034.0
+Canada,2011,1894,7716.0
+China,2011,1682,8342.0
+Colombia,2011,90,1068.0
+Dinamarca,2011,864,4130.0
+El Salvador,2011,20,10.0
+Emirados Arabes Unidos,2011,190,590.0
+Espanha,2011,720,5057.0
+Estados Unidos,2011,67547,333438.0
+Filânldia,2011,1287,6359.0
+França,2011,1481,4436.0
+Honduras,2011,55,120.0
+Hong Kong,2011,424,1620.0
+Irlanda,2011,1335,9411.0
+Itália,2011,1602,9002.0
+Japão,2011,632,2480.0
+Luxemburgo,2011,471,2873.0
+Nicarágua,2011,39,20.0
+Nigéria,2011,108,506.0
+Noruega,2011,3693,21352.0
+Nova Zelândia,2011,291,1606.0
+Países Baixos (Holanda),2011,5948,18399.0
+Paraguai,2011,2513,8531.0
+Reino Unido,2011,1980,8040.0
+Republica Tcheca,2011,526,2020.0
+Suíça,2011,3465,12250.0
+Alemanha,2012,833,5072.0
+Angola,2012,73,1426.0
+Australia,2012,1317,11057.0
+Bahamas,2012,216,2160.0
+Belgica,2012,7404,40086.0
+Canada,2012,640,4663.0
+Chile,2012,811,10143.0
+China,2012,3219,25604.0
+Costa Rica,2012,34,30.0
+Dinamarca,2012,1296,5921.0
+Estados Unidos,2012,126129,513426.0
+Estonia,2012,369,1882.0
+Filânldia,2012,378,4084.0
+França,2012,945,6116.0
+Hong Kong,2012,320,2753.0
+Irlanda,2012,450,4200.0
+Itália,2012,90,1894.0
+Japão,2012,1197,8217.0
+Nigéria,2012,388,1984.0
+Noruega,2012,1534,15933.0
+Nova Zelândia,2012,150,1021.0
+Países Baixos (Holanda),2012,3854,25485.0
+Paraguai,2012,3568,10442.0
+Quênia,2012,80,483.0
+Reino Unido,2012,11896,66897.0
+Suíça,2012,3780,31080.0
+Trinidade e Tobago,2012,383,1785.0
+Venezuela,2012,1470,10065.0
+Alemanha,2013,5809,30461.0
+Angola,2013,5850,21060.0
+Australia,2013,767,5809.0
+Bahamas,2013,270,2700.0
+Belgica,2013,1100,6078.0
+Canada,2013,10371,36809.0
+China,2013,795,6572.0
+Colombia,2013,22,196.0
+Dinamarca,2013,3164,16628.0
+Espanha,2013,3375,22468.0
+Estados Unidos,2013,91987,364136.0
+Filânldia,2013,693,9556.0
+França,2013,5400,22664.0
+Guiana,2013,14,93.0
+Haiti,2013,48,174.0
+Hong Kong,2013,586,4149.0
+Irlanda,2013,1373,14599.0
+Itália,2013,315,1926.0
+Japão,2013,17009,83445.0
+Luxemburgo,2013,765,3973.0
+Noruega,2013,567,3904.0
+Nova Zelândia,2013,150,970.0
+Países Baixos (Holanda),2013,1822,10000.0
+Paraguai,2013,23603,81321.0
+Quênia,2013,1,1.0
+Reino Unido,2013,13900,73941.0
+Republica Tcheca,2013,158,1755.0
+Suécia,2013,450,6470.0
+Suíça,2013,1620,14014.0
+Uruguai,2013,22717,82754.0
+Alemanha,2014,9236,62169.0
+Angola,2014,6866,22423.0
+Australia,2014,618,3951.0
+Belgica,2014,104153,499164.0
+Bolívia,2014,9,250.0
+Canada,2014,1847,13240.0
+China,2014,5959,35190.0
+Cingapura,2014,113,700.0
+"Coreia do Sul, Republica da",2014,4950,22797.0
+Dinamarca,2014,1296,6917.0
+Estados Unidos,2014,39748,136533.0
+França,2014,7808,42952.0
+Guiana,2014,1,6.0
+Hong Kong,2014,7556,32582.0
+Itália,2014,180,832.0
+Japão,2014,22290,104395.0
+Luxemburgo,2014,1080,5790.0
+Noruega,2014,24616,119690.0
+Nova Zelândia,2014,150,554.0
+Países Baixos (Holanda),2014,8280,51852.0
+Paraguai,2014,28038,96500.0
+Polônia,2014,206,1245.0
+Reino Unido,2014,131483,607711.0
+Republica Tcheca,2014,7,66.0
+Suécia,2014,98,534.0
+Suíça,2014,10936,111259.0
+Suriname,2014,31,88.0
+Trinidade e Tobago,2014,315,1470.0
+Uruguai,2014,34463,128510.0
+Venezuela,2014,2,46.0
+Alemanha,2015,6256,30939.0
+Australia,2015,235,1368.0
+Belgica,2015,900,5280.0
+Bolívia,2015,2418,11355.0
+Canada,2015,2405,15821.0
+China,2015,23520,48739.0
+Dinamarca,2015,726,4376.0
+Estados Unidos,2015,18450,92868.0
+França,2015,16246,203297.0
+Guiana,2015,22,221.0
+Hong Kong,2015,414,2693.0
+Japão,2015,1826,18118.0
+Noruega,2015,3192,10099.0
+Nova Zelândia,2015,233,822.0
+Países Baixos (Holanda),2015,1665,7907.0
+Paraguai,2015,29016,70845.0
+Polônia,2015,225,2310.0
+Porto Rico,2015,45,1736.0
+Reino Unido,2015,16511,97055.0
+Republica Tcheca,2015,23,278.0
+Suécia,2015,292,2190.0
+Suíça,2015,1080,9648.0
+Suriname,2015,8,19.0
+Uruguai,2015,19574,74551.0
+Alemanha,2016,4293,19088.0
+Angola,2016,90,1010.0
+Australia,2016,594,2602.0
+Bolívia,2016,2624,12811.0
+Canada,2016,901,3821.0
+Chile,2016,10340,41824.0
+China,2016,4610,20931.0
+Colombia,2016,617,1532.0
+"Coreia do Sul, Republica da",2016,212,1180.0
+Dinamarca,2016,68,538.0
+Estados Unidos,2016,22615,143306.0
+Filânldia,2016,7522,35948.0
+Guiné Equatorial,2016,7738,17056.0
+Hong Kong,2016,225,1704.0
+Itália,2016,135,780.0
+Japão,2016,3658,14766.0
+Luxemburgo,2016,45,521.0
+Nigéria,2016,68,445.0
+Paraguai,2016,40197,123169.0
+Reino Unido,2016,56615,223774.0
+Republica Tcheca,2016,94,532.0
+Suécia,2016,140,352.0
+Suíça,2016,270,2719.0
+Taiwan (Formosa),2016,2706,13484.0
+Uruguai,2016,7656,28085.0
+Venezuela,2016,16,13.0
+Alemanha,2017,4824,28799.0
+Australia,2017,595,2276.0
+Belgica,2017,450,2646.0
+Bolívia,2017,1668,21056.0
+Camarões,2017,4138,16077.0
+Chile,2017,25439,231696.0
+China,2017,11646,35671.0
+Colombia,2017,595,2600.0
+"Coreia do Sul, Republica da",2017,442,1470.0
+Curaçao,2017,991,5808.0
+Espanha,2017,5013,64735.0
+Estados Unidos,2017,22605,170620.0
+Guiana,2017,4,61.0
+Hong Kong,2017,450,2705.0
+Itália,2017,1467,8382.0
+Japão,2017,48604,133203.0
+Letônia,2017,158,2426.0
+Luxemburgo,2017,360,1825.0
+Nova Zelândia,2017,196,1021.0
+Paraguai,2017,80951,255320.0
+Portugal,2017,756,11568.0
+Quênia,2017,100,1512.0
+Reino Unido,2017,27700,101672.0
+Republica Tcheca,2017,207,942.0
+Suécia,2017,298,1136.0
+Suíça,2017,1890,16884.0
+Taiwan (Formosa),2017,1507,6574.0
+Uruguai,2017,13237,48581.0
+Venezuela,2017,455,2205.0
+Alemanha,2018,4092,21373.0
+Angola,2018,63,280.0
+Argentina,2018,4342,17243.0
+Aruba,2018,18,7.0
+Bahamas,2018,5,17.0
+Belgica,2018,1800,10555.0
+Bolívia,2018,5891,25277.0
+Camarões,2018,90,284.0
+Canada,2018,23,94.0
+Chile,2018,25481,208521.0
+China,2018,19490,58871.0
+Cingapura,2018,47214,135547.0
+Colombia,2018,2309,8637.0
+"Coreia do Sul, Republica da",2018,3,15.0
+Cuba,2018,1,2.0
+Curaçao,2018,801,2256.0
+Dinamarca,2018,662,3530.0
+El Salvador,2018,1,10.0
+Espanha,2018,2271,9453.0
+Estados Unidos,2018,28542,172961.0
+França,2018,2163,9147.0
+Grécia,2018,63,391.0
+Guatemala,2018,206,1052.0
+Hong Kong,2018,225,1704.0
+Itália,2018,1307,5331.0
+Japão,2018,7853,34532.0
+Libéria,2018,300,444.0
+Luxemburgo,2018,113,655.0
+"Marshall, Ilhas",2018,158,604.0
+México,2018,737,2476.0
+Nigéria,2018,976,4029.0
+Noruega,2018,81,300.0
+Nova Zelândia,2018,15,168.0
+Panamá,2018,319,740.0
+Paraguai,2018,92114,205510.0
+Peru,2018,1577,6379.0
+Polônia,2018,23099,73608.0
+Porto Rico,2018,100,1512.0
+Portugal,2018,1552,23255.0
+Reino Unido,2018,14626,72651.0
+Rússia,2018,47765,18240.0
+Suécia,2018,54,218.0
+Uruguai,2018,9265,34039.0
+Venezuela,2018,5,10.0
+Alemanha,2019,1003,5466.0
+Angola,2019,1007,3615.0
+Antigua e Barbuda,2019,7,34.0
+Australia,2019,180,800.0
+Bahamas,2019,18,79.0
+Belgica,2019,1869,11405.0
+Bósnia-Herzegovina,2019,10,53.0
+Canada,2019,2185,8228.0
+Catar,2019,41,3502.0
+"Cayman, Ilhas",2019,15,43.0
+China,2019,26247,91922.0
+Chipre,2019,101,368.0
+Cingapura,2019,28418,126428.0
+Colombia,2019,804,2185.0
+"Coreia do Sul, Republica da",2019,32,115.0
+Curaçao,2019,3373,13676.0
+Dinamarca,2019,96,230.0
+Emirados Arabes Unidos,2019,33,164.0
+Equador,2019,2,3.0
+Espanha,2019,2,3.0
+Estados Unidos,2019,389511,1023709.0
+Filipinas,2019,24,109.0
+França,2019,3123,15835.0
+Gana,2019,810,3696.0
+Gibraltar,2019,43,85.0
+Grécia,2019,74,280.0
+Guatemala,2019,446,2933.0
+Hong Kong,2019,2801,10173.0
+Índia,2019,18,40.0
+Irlanda,2019,14,26.0
+Itália,2019,522,2445.0
+Japão,2019,10242,41567.0
+Líbano,2019,29,108.0
+Libéria,2019,1207,2420.0
+Luxemburgo,2019,495,2474.0
+Malta,2019,359,1317.0
+"Marshall, Ilhas",2019,1594,2853.0
+Nigéria,2019,1809,7513.0
+Noruega,2019,345,505.0
+Países Baixos (Holanda),2019,432,923.0
+Panamá,2019,2929,6126.0
+Paraguai,2019,94620,224306.0
+Peru,2019,596,1854.0
+Polônia,2019,18810,57107.0
+Portugal,2019,1288,15933.0
+Reino Unido,2019,11049,54428.0
+Rússia,2019,71654,27360.0
+Suíça,2019,2704,8959.0
+Suriname,2019,2,3.0
+Tailândia,2019,8,169.0
+Taiwan (Formosa),2019,5,6.0
+Turquia,2019,6,30.0
+Uruguai,2019,2808,15045.0
+Venezuela,2019,450,2670.0
+Alemanha,2020,2388,14767.0
+Angola,2020,24,38.0
+Antigua e Barbuda,2020,32,328.0
+Argentina,2020,315,894.0
+Australia,2020,144,503.0
+Bahamas,2020,434,1033.0
+Barbados,2020,57,105.0
+Benin,2020,24,181.0
+Bolívia,2020,5994,16901.0
+Bósnia-Herzegovina,2020,168,161.0
+Canada,2020,413,3063.0
+Catar,2020,78,6651.0
+Chile,2020,90,346.0
+China,2020,29921,103986.0
+Chipre,2020,307,1019.0
+Colombia,2020,24578,74854.0
+"Coreia do Sul, Republica da",2020,24,53.0
+Curaçao,2020,2186,8451.0
+Dinamarca,2020,452,1798.0
+Emirados Arabes Unidos,2020,9,36.0
+Espanha,2020,29,230.0
+Estados Unidos,2020,634243,1647310.0
+Filânldia,2020,1078,7065.0
+França,2020,7481,37286.0
+Grécia,2020,97,309.0
+Guatemala,2020,760,4318.0
+Haiti,2020,1331,2737.0
+Hong Kong,2020,4124,11770.0
+Índia,2020,25,80.0
+Islândia,2020,10,45.0
+Itália,2020,150,253.0
+Japão,2020,7294,28930.0
+Jordânia,2020,30,103.0
+Libéria,2020,1105,6684.0
+Malta,2020,1692,2862.0
+"Marshall, Ilhas",2020,2093,4587.0
+Nigéria,2020,4613,15728.0
+Noruega,2020,172,321.0
+Países Baixos (Holanda),2020,38,717.0
+Panamá,2020,7163,15019.0
+Paraguai,2020,16231,48614.0
+Polônia,2020,14,19.0
+Portugal,2020,631,11065.0
+Reino Unido,2020,8084,42414.0
+Serra Leoa,2020,450,2140.0
+Singapura,2020,979,2193.0
+Suíça,2020,672,227.0
+Tailândia,2020,16,287.0
+Taiwan (Formosa),2020,995,4212.0
+Turquia,2020,18,75.0
+Uruguai,2020,1796,15322.0
+Vanuatu,2020,14,31.0
+Alemanha,2021,142,265.0
+Antigua e Barbuda,2021,10,82.0
+Australia,2021,184,654.0
+Bahamas,2021,179,461.0
+Bangladesh,2021,1,28.0
+Barbados,2021,4,58.0
+Bolívia,2021,21235,64988.0
+Cabo Verde,2021,2,12.0
+Canada,2021,253,566.0
+Catar,2021,5,964.0
+"Cayman, Ilhas",2021,1,5.0
+Chile,2021,72,361.0
+China,2021,13692,49572.0
+Chipre,2021,122,350.0
+Colombia,2021,10280,37207.0
+"Coreia do Sul, Republica da",2021,82,200.0
+Curaçao,2021,5525,21633.0
+Dinamarca,2021,7,32.0
+Dominica,2021,204,505.0
+Emirados Arabes Unidos,2021,90,3240.0
+Estados Unidos,2021,801082,2123710.0
+França,2021,1015,5366.0
+Gana,2021,654,3555.0
+Grécia,2021,147,360.0
+Haiti,2021,4978,11440.0
+Hong Kong,2021,3669,13135.0
+Hungria,2021,96,668.0
+Itália,2021,172,879.0
+Japão,2021,6811,27860.0
+Líbano,2021,540,1930.0
+Libéria,2021,795,2509.0
+Maldivas,2021,3023,12327.0
+Malta,2021,364,2289.0
+"Marshall, Ilhas",2021,1057,4087.0
+Montenegro,2021,9,24.0
+Noruega,2021,37,155.0
+Países Baixos (Holanda),2021,86,479.0
+Panamá,2021,1639,4514.0
+Paraguai,2021,45629,136909.0
+Portugal,2021,21,135.0
+Reino Unido,2021,7130,45041.0
+Serra Leoa,2021,225,1070.0
+Singapura,2021,525,926.0
+Suíça,2021,1074,4739.0
+Suriname,2021,880,4202.0
+Tailândia,2021,22,142.0
+Taiwan (Formosa),2021,1255,5578.0
+Turquia,2021,74,258.0
+Vietnã,2021,144,374.0
+Alemanha,2022,1164,6560.0
+Angola,2022,26383,141588.0
+Antigua e Barbuda,2022,65,146.0
+Bahamas,2022,56,194.0
+Barbados,2022,25,101.0
+Bermudas,2022,12,58.0
+Bolívia,2022,22307,70416.0
+Canada,2022,62,347.0
+Chile,2022,4,19.0
+China,2022,8619,35079.0
+Chipre,2022,382,931.0
+Colombia,2022,15396,56227.0
+"Coreia do Sul, Republica da",2022,10,30.0
+Curaçao,2022,3487,15494.0
+Dominica,2022,594,1461.0
+Equador,2022,135,500.0
+Estados Unidos,2022,732209,1964451.0
+Falkland (Malvinas),2022,360,2081.0
+Filipinas,2022,77,389.0
+França,2022,772,4308.0
+Gana,2022,12729,58137.0
+Granada,2022,1122,3050.0
+Grécia,2022,38,177.0
+Guatemala,2022,284,1527.0
+Guiana,2022,5553,26216.0
+Haiti,2022,4842,9417.0
+Hong Kong,2022,1175,5328.0
+Ilha de Man,2022,2,20.0
+Irlanda,2022,6,22.0
+Itália,2022,503,3702.0
+Japão,2022,2970,12049.0
+Líbano,2022,1350,4810.0
+Libéria,2022,1105,3367.0
+Maldivas,2022,3221,10680.0
+Malta,2022,191,822.0
+"Marshall, Ilhas",2022,1154,3438.0
+Nigéria,2022,6705,32586.0
+Noruega,2022,483,9852.0
+Países Baixos (Holanda),2022,707,6038.0
+Panamá,2022,3092,32540.0
+Paraguai,2022,48160,183187.0
+Portugal,2022,56,612.0
+Reino Unido,2022,9305,53968.0
+Rússia,2022,990,5280.0
+Serra Leoa,2022,225,1165.0
+Singapura,2022,642,5235.0
+Tailândia,2022,17,107.0
+Taiwan (Formosa),2022,901,4141.0
+Turquia,2022,2,17.0
+Uruguai,2022,10200,87895.0
+Vietnã,2022,16,19.0
+África do Sul,2023,2,44.0
+Alemanha,2023,162,1542.0
+Angola,2023,56242,315073.0
+Antigua e Barbuda,2023,24,100.0
+Argentina,2023,8593,73239.0
+Australia,2023,10,6.0
+Bahamas,2023,65,268.0
+Barbados,2023,32,219.0
+Benin,2023,3,19.0
+Bolívia,2023,11410,34481.0
+Canada,2023,4068,15427.0
+"Cayman, Ilhas",2023,5,33.0
+Chile,2023,3532,15875.0
+China,2023,16285,47822.0
+Chipre,2023,188,707.0
+Colombia,2023,1926,6898.0
+"Coreia do Sul, Republica da",2023,74,222.0
+Curaçao,2023,1288,6539.0
+Dinamarca,2023,2790,26359.0
+Emirados Arabes Unidos,2023,126,622.0
+Equador,2023,540,2000.0
+Espanha,2023,45,853.0
+Estados Unidos,2023,255198,729055.0
+Filipinas,2023,20,111.0
+Filânldia,2023,180,1770.0
+Gana,2023,4719,35778.0
+Grécia,2023,59,320.0
+Guiana,2023,14084,71163.0
+Haiti,2023,3969,10646.0
+Hong Kong,2023,1355,5169.0
+Itália,2023,1460,19905.0
+Japão,2023,2311,9708.0
+Libéria,2023,973,3358.0
+Luxemburgo,2023,18,305.0
+Maldivas,2023,4577,20204.0
+Malta,2023,1472,44498.0
+"Marshall, Ilhas",2023,1375,4886.0
+Nova Zelândia,2023,303,4231.0
+Países Baixos (Holanda),2023,3,49.0
+Panamá,2023,7936,43115.0
+Paraguai,2023,64662,192975.0
+Peru,2023,108,756.0
+Polônia,2023,126,659.0
+Portugal,2023,2191,38616.0
+Reino Unido,2023,16057,86879.0
+Serra Leoa,2023,271,1287.0
+Singapura,2023,209,599.0
+Suíça,2023,444,4474.0
+Tailândia,2023,7,43.0
+Taiwan (Formosa),2023,1099,3664.0
+"Tcheca, República",2023,167,1236.0
+Turquia,2023,6930,26566.0
+Uruguai,2023,2812,14352.0
