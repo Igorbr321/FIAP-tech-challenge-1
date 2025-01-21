@@ -82,6 +82,7 @@ def process_export_data(table, start_year, end_year):
 
 paises_org = {
     'Alemanha': 'Alemanha',
+    'Austria': 'Áustria',
     'Angola': 'Angola',
     'Antigua e Barbuda': 'Antigua e Barbuda',
     'Argentina': 'Argentina',
